@@ -1,4 +1,5 @@
 name: Excavator
+run-name: Excavate manifests
 
 on:
   workflow_dispatch:
